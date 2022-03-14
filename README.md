@@ -1,6 +1,6 @@
 # CirkitDesigner
 
-This repository contains the public releases for Cirkit Designer, a one-stop-shop for building and prototyping circuit and Arduino projects.
+This repository contains the public releases for Cirkit Designer (www.CirkitDesigner.com, a one-stop-shop for building and prototyping circuit and Arduino projects.
 
 Cirkit Designer supports:
 - Creating wiring diagrams
